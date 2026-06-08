@@ -1,0 +1,7 @@
+{
+  "name": "RevForge: Hospitality IQ",
+  "description": "Design action-driven hotel performance dashboards with AI. Specializing in ADR, RevPAR, and guest journey visualizations.",
+  "requestFramePermissions": [],
+  "prompt": "",
+  "majorCapabilities": ["AI-driven UI prototyping", "Hotel performance visualization", "AI Component Generation", "Live Chart Previews", "Code Export"]
+}
